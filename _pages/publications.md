@@ -7,23 +7,23 @@ author_profile: true
 
 First authored papers
 ------
-1. \[**2019 COMST (A)**\] Data-oriented mobile crowdsensing: A comprehensive survey   
+1. **\[2019 COMST (A)\]** Data-oriented mobile crowdsensing: A comprehensive survey   
 Yutong Liu, Linghe Kong, Guihai Chen  
 IEEE Communications Surveys & Tutorials 21 (3), 2849-2885    
 [\[Paper\]](https://isabelleliu630.github.io/isabelleliu.github.io/files/comst.pdf)
-2. \[**2020 JSA (B)**\]</font> Light-weight AI and IoT collaboration for surveillance video pre-processing    
+2. **\[2020 JSA (B)\]** Light-weight AI and IoT collaboration for surveillance video pre-processing    
 Yutong Liu, Linghe Kong, Guihai Chen, Fangqin Xu, Zhanquan Wang    
 Journal of Systems Architecture, 101934    
 [\[Paper\]](https://isabelleliu630.github.io/isabelleliu.github.io/files/jsa.pdf)
-3. \[**2020 IWQoS (B)**\]</font> GroupCoach: Compressed Sensing Based Group Activity Monitoring and Correction <font color=red>(Best paper award)  </font>  
+3. **\[2020 IWQoS (B)\]** GroupCoach: Compressed Sensing Based Group Activity Monitoring and Correction <font color=red>(Best paper award)  </font>  
 Yutong Liu, Linghe Kong, Fan Wu, Guihai Chen   
 IEEE/ACM 28th International Symposium on Quality of Service (IWQoS), 1-10  
 [\[Paper\]](https://isabelleliu630.github.io/isabelleliu.github.io/files/GroupCoach.pdf)[\[Slides\]](https://isabelleliu630.github.io/isabelleliu.github.io/files/GroupCoach_PPT.pdf)[\[Video\]](https://isabelleliu630.github.io/isabelleliu.github.io/files/GroupCoach_video.mp4)
-4. \[**2019 IWQoS (B)**\]</font> Litedge: towards light-weight edge computing for efficient wireless surveillance system <font color=red>(Best paper runner-up)  </font>  
+4. **\[2019 IWQoS (B)\]** Litedge: towards light-weight edge computing for efficient wireless surveillance system <font color=red>(Best paper runner-up)  </font>  
 Yutong Liu, Linghe Kong, Muhammad Hassan, Long Cheng, Guangtao Xue, Guihai Chen  
 Proceedings of the International Symposium on Quality of Service, 1-10   
 [\[Paper\]](https://isabelleliu630.github.io/isabelleliu.github.io/files/IWQoS2019.pdf)[\[Slides\]](https://isabelleliu630.github.io/isabelleliu.github.io/files/litedge_PPT.pdf)
-5. \[**2018 ICPADS (C)**\]</font> Stop unauthorized access to your smart devices     
+5. **\[2018 ICPADS (C)\]** Stop unauthorized access to your smart devices     
 Yutong Liu, Linghe Kong, Yifeng Cao, Vahan Sarafian, Long Cheng, Guihai Chen  
 IEEE 24th International Conference on Parallel and Distributed Systems, 228-235  
 [\[Paper\]](https://isabelleliu630.github.io/isabelleliu.github.io/files/icpads.pdf)
