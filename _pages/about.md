@@ -14,5 +14,5 @@ Yutong Liu is currently a fourth year Ph.D. student in [Department of Computer S
 News!
 ======
 - \[Nov. 2020\] Our paper "Light-weight AI and IoT Collaboration for Surveillance Video Pre-processing" is publised in **JSA (CCF-B journal)**!
-- \[Jun. 2020\] Our paper "GroupCoach: Compressed Sensing Based Group Activity Monitoring and Correction" has won the <font color=#e30f00> Best paper award </font> in **IWQoS 2020 (CCF-B conf.)**!
+- \[Jun. 2020\] Our paper "GroupCoach: Compressed Sensing Based Group Activity Monitoring and Correction" has won the $\color{red}{Best paper award}$ in **IWQoS 2020 (CCF-B conf.)**!
  
