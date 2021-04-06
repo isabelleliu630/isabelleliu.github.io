@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Yutong Liu is currently a fourth year Ph.D. student in [Department of Computer Science and Engineering](http://www.cs.sjtu.edu.cn/) at [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/), supervised by Prof. [Linghe Kong](http://www.cs.sjtu.edu.cn/~linghe.kong/). She received her Bachelor degree at [Ocean University of China](http://www.ouc.edu.cn/), 2017, supervised by Prof. [Guoqiang Zhong](http://it.ouc.edu.cn/cs/2019/0721/c16871a254144/page.htm) and [Ruichun Tang](http://it.ouc.edu.cn/cs/2019/0721/c16870a254133/page.htm). Her research interests include Wireless Sensing, AI, IoT, and Mobile Computing.
+Yutong Liu is currently a fourth year Ph.D. student in [Department of Computer Science and Engineering](http://www.cs.sjtu.edu.cn/) at [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/), supervised by Prof. [Linghe Kong](http://www.cs.sjtu.edu.cn/~linghe.kong/). She received her Bachelor degree at [Ocean University of China](http://www.ouc.edu.cn/), 2017, supervised by Prof. [Guoqiang Zhong](http://it.ouc.edu.cn/cs/2019/0721/c16871a254144/page.htm) and [Ruichun Tang](http://it.ouc.edu.cn/cs/2019/0721/c16870a254133/page.htm). Her research interests include Wireless Sensing, AI, IoT, and Mobile Computing. My detailed information is introduce in my [CV](https://isabelleliu630.github.io/isabelleliu.github.io/files/cv.pdf) also.
 
 
 News!
