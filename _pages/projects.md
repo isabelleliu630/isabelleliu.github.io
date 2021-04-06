@@ -4,9 +4,10 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-1. [2018 HUAWEI] Robot collaborative communication research  
-China's national invention patent (invention published): 《面向无线通信增强的多点联合传输方法与系统》 [\[Proof\]](https://isabelleliu630.github.io/isabelleliu.github.io/files/patent.pdf)
-2. [2020 NSF] Research on Concurrent Transmission Technology of IoT Wireless Communication
+1. [2018 HUAWEI] (participate) Robot collaborative communication research  
+China's national invention patent (invention published): 《面向无线通信增强的多点联合传输方法与系统》  
+[\[Proof\]](https://isabelleliu630.github.io/isabelleliu.github.io/files/patent.pdf)
+2. [2020 NSF] (participate) Research on Concurrent Transmission Technology of IoT Wireless Communication
 
 Competitions
 ======
