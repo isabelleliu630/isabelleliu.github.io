@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Teaching Experience"
-permalink: /projects/
+permalink: /teaching/
 author_profile: true
 ---
 My teacher assistant (TA) experience is rich:  
