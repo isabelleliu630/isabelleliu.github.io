@@ -18,7 +18,7 @@ Journal of Systems Architecture, 101934
 3. **\[2020 IWQoS (B)\]** GroupCoach: Compressed Sensing Based Group Activity Monitoring and Correction <font color=red>(Best paper award)  </font>  
 Yutong Liu, Linghe Kong, Fan Wu, Guihai Chen   
 IEEE/ACM 28th International Symposium on Quality of Service (IWQoS), 1-10  
-[\[Paper\]](https://isabelleliu630.github.io/isabelleliu.github.io/files/GroupCoach.pdf)[\[Slides\]](https://isabelleliu630.github.io/files/GroupCoach_PPT.pdf)[\[Video\]](https://isabelleliu630.github.io/files/GroupCoach_video.mp4)
+[\[Paper\]](https://isabelleliu630.github.io/files/GroupCoach.pdf)[\[Slides\]](https://isabelleliu630.github.io/files/GroupCoach_PPT.pdf)[\[Video\]](https://isabelleliu630.github.io/files/GroupCoach_video.mp4)
 4. **\[2019 IWQoS (B)\]** Litedge: towards light-weight edge computing for efficient wireless surveillance system <font color=red>(Best paper runner-up)  </font>  
 Yutong Liu, Linghe Kong, Muhammad Hassan, Long Cheng, Guangtao Xue, Guihai Chen  
 Proceedings of the International Symposium on Quality of Service, 1-10   
