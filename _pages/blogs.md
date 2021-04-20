@@ -1,5 +1,5 @@
 layout: archive
-title: "Blogs-几种常用的无线感知波的对比"
+title: "blogs"
 permalink: /blogs/
 author_profile: true
 
