@@ -1,9 +1,11 @@
 ---
-title: "个人网站搭建过程及后续维护"
-collection: blogs
-permalink: /_blogs/20210406homepage
-#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+title: '个人主页配置要点'
 date: 2021-04-06
+permalink: /posts/2021/04/Homepage Deployment/
+tags:
+
+  - Homepage
+
 ---
 **Basis:** Github+AcademicPages+Jekyll  
 **Building procedures:**
