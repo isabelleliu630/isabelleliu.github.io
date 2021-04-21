@@ -13,7 +13,7 @@ Yutong Liu is currently a fourth year Ph.D. student in [Department of Computer S
 
 News!
 ======
-- \[Apr. 2021\] Our patent “面向无线通信增强的多点联合传输方法与系统” is granted!
+- \[Apr. 2021\] Our patent “面向无线通信增强的多点联合传输方法与系统” is  <font color=red>granted</font>!
 - \[Nov. 2020\] Our paper "Light-weight AI and IoT Collaboration for Surveillance Video Pre-processing" is publised in **JSA (CCF-B journal)**!
 
 - \[Jun. 2020\] Our paper "GroupCoach: Compressed Sensing Based Group Activity Monitoring and Correction" has won the <font color=red>Best paper award</font> in **IWQoS 2020 (CCF-B conf.)**!
