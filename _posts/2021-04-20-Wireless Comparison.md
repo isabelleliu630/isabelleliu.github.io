@@ -1,10 +1,13 @@
+---
+
 title: '几种常用的无线感知波的对比'
-date: 2012-08-14
-permalink: /posts/2021/04/blog-post-1/
+date: 2021-04-21
+permalink: /posts/2021/04/Wireless Comparison/
 tags:
 
   - Wireless Sensing
-  - Transmission
+
+---
 
 # 几种常用的无线感知波的对比
 
