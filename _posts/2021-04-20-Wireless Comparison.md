@@ -9,7 +9,7 @@ tags:
 
 ---
 
-![image-20210421232116984](C:\Users\isabelleliu\AppData\Roaming\Typora\typora-user-images\image-20210421232116984.png)
+![image-20210421232116984](C:\2-自我提升\PersonalHomepage\isabelleliu630.github.io\files\figures\image-20210421232116984.png)
 
 # 电磁波
 
@@ -23,7 +23,7 @@ tags:
 
 电磁波能量E=hv（E是能量，h是普朗克常数，v是电磁波频率，即频率波长的，则光子能量小）。
 
-![image-20210421200840078](C:\Users\isabelleliu\AppData\Roaming\Typora\typora-user-images\image-20210421200840078.png)
+![image-20210421200840078](C:\2-自我提升\PersonalHomepage\isabelleliu630.github.io\files\figures\image-20210421200840078.png)
 
 ## 无线电波
 
@@ -40,7 +40,7 @@ tags:
 
   14个信道（channels）：2.402GHz - 2.483Ghz，每个信道22MHz的带宽，包括20MHz的有效带宽和2MHz隔离保护带宽，最大的吞吐量为72.2 Mbps。整个14个信道中，只有1， 6，11三个信道不会相互覆盖，如下图所示：
 
-  ![image-20210421201925171](C:\Users\isabelleliu\AppData\Roaming\Typora\typora-user-images\image-20210421201925171.png)
+  ![image-20210421201925171](C:\2-自我提升\PersonalHomepage\isabelleliu630.github.io\files\figures\image-20210421201925171.png)
 
   对比5GHz，2.4GHz的WiFi工作频率较低，根据f=1/t，说明传输速度较慢，但是根据
   $$
@@ -173,7 +173,13 @@ LoRa：https://zhuanlan.zhihu.com/p/158745939
 
 光波：https://blog.csdn.net/suxinpingtao51/article/details/45197031
 
+----
 
+作者：刘雨桐
+
+出处：https://isabelleliu630.github.io/posts/2021/04/Wireless%20Comparison/
+
+本文版权归作者所有，未经作者同意必须在文章页面给出原文链接，否则保留追究法律责任的权利。 
 
 
 
