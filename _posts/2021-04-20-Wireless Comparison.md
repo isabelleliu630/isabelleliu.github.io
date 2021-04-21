@@ -9,7 +9,7 @@ tags:
 
 ---
 
-![image-20210421232116984](C:\2-自我提升\PersonalHomepage\isabelleliu630.github.io\files\figures\image-20210421232116984.png)
+![image-20210421232116984.png](https://github.com/isabelleliu630/isabelleliu630.github.io/blob/master/files/figures/image-20210421232116984.png?raw=true)
 
 # 电磁波
 
@@ -23,7 +23,7 @@ tags:
 
 电磁波能量E=hv（E是能量，h是普朗克常数，v是电磁波频率，即频率波长的，则光子能量小）。
 
-![image-20210421200840078](C:\2-自我提升\PersonalHomepage\isabelleliu630.github.io\files\figures\image-20210421200840078.png)
+![image-20210421200840078.png](https://github.com/isabelleliu630/isabelleliu630.github.io/blob/master/files/figures/image-20210421200840078.png?raw=true)
 
 ## 无线电波
 
@@ -40,18 +40,15 @@ tags:
 
   14个信道（channels）：2.402GHz - 2.483Ghz，每个信道22MHz的带宽，包括20MHz的有效带宽和2MHz隔离保护带宽，最大的吞吐量为72.2 Mbps。整个14个信道中，只有1， 6，11三个信道不会相互覆盖，如下图所示：
 
-  ![image-20210421201925171](C:\2-自我提升\PersonalHomepage\isabelleliu630.github.io\files\figures\image-20210421201925171.png)
+  ![image-20210421201925171.png](https://github.com/isabelleliu630/isabelleliu630.github.io/blob/master/files/figures/image-20210421201925171.png?raw=true)
 
   对比5GHz，2.4GHz的WiFi工作频率较低，根据f=1/t，说明传输速度较慢，但是根据
   $$
   \lambda  = \frac{c}{f} = ct，
   $$
 
-  $$
-  \lambda  = \frac{c}{f} = ct，
-  $$
   说明波长$\lambda$更长（10cm左右），穿墙能力更强（衍射比穿透占比多），覆盖范围更广。
-
+  
 - 工作在5 GHz 频段的协议：IEEE 802.11a/n/ac/ax。
 
   带宽以20MHz的倍数增加，信道的标号不是1-10而是4的倍数增加，各个信道都不会相互覆盖，如下图所示：
