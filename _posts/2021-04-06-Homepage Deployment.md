@@ -26,6 +26,7 @@ tags:
 1. git add . (There's a blank between "add" and ".".)  
 2. git commit -m "Any title"  
 3. git push -u origin master
+4. 【如果在github网页版操作过，本地push不上去怎么办？】在以上三步之前加一句 git pull origin master实现本地和云端的同步。
 
 -----------------
 
@@ -39,7 +40,7 @@ tags:
 **Some questions:**
 
 1. Why does the link always time out after inputting "git push"?  
-  A: Several possible reasons:
+    A: Several possible reasons:
 - Network condition is too bad.  
 - Use the following instructions to check your identity:  
 git config user.name "yourname"  
@@ -47,5 +48,15 @@ git config user.email "youremail"
 - Try one more time (VPN problem)
 - Check the integrity of the direction of push and your target repository
 2. In Markdown grammar, \<font\> and \*\* cannot be used together cause they are from two different grammar systems.
+
+   
+
+   ----
+
+   作者：刘雨桐
+
+   出处：https://isabelleliu630.github.io//posts/2021/04/Homepage%20Deployment/
+
+   本文版权归作者所有，未经作者同意必须在文章页面给出原文链接，否则保留追究法律责任的权利。
 
 
