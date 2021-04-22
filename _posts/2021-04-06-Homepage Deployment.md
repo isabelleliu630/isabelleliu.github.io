@@ -49,6 +49,10 @@ git config user.email "youremail"
 - Check the integrity of the direction of push and your target repository
 2. In Markdown grammar, \<font\> and \*\* cannot be used together cause they are from two different grammar systems.
 
+3. 插入图片的时候，图片加载不出来怎么办：
+
+   不要复制github里图片的链接，建议在github中打开图片之后直接右键点击复制图片，粘贴进markdown里面的带raw字段的地址是可以加载的。无论是插入还是外部链接都要采用这个方式。
+
    
 
    ----
