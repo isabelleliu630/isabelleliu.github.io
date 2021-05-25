@@ -13,6 +13,7 @@ Yutong Liu is currently a fourth year Ph.D. student in [Department of Computer S
 
 News!
 ======
+- \[May 2021\] I have launched a new tool to check [conference deadlines](https://isabelleliu630.github.io/conf-deadlines/)!
 - \[Apr. 2021\] Our patent “面向无线通信增强的多点联合传输方法与系统” is  <font color=red>granted</font>!
 - \[Nov. 2020\] Our paper "Light-weight AI and IoT Collaboration for Surveillance Video Pre-processing" is publised in **JSA (CCF-B journal)**!
 
