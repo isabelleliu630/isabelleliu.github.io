@@ -13,8 +13,8 @@ Yutong Liu is currently a fourth year Ph.D. student in [Department of Computer S
 
 News!
 ======
+- \[July 2021\] Our paper“Learning Based Congestion Control Simulator for Mobile Internet Education” is  <font color=red>accepted by MobiArch 2021 (Mobicom Workshop)</font>! This is my first education-oriented paper.
 - \[May 2021\] I have launched a new tool to check [conference deadlines](https://isabelleliu630.github.io/conf-deadlines/)!
 - \[Apr. 2021\] Our patent “面向无线通信增强的多点联合传输方法与系统” is  <font color=red>granted</font>!
 - \[Nov. 2020\] Our paper "Light-weight AI and IoT Collaboration for Surveillance Video Pre-processing" is publised in **JSA (CCF-B journal)**!
-
 - \[Jun. 2020\] Our paper "GroupCoach: Compressed Sensing Based Group Activity Monitoring and Correction" has won the <font color=red>Best paper award</font> in **IWQoS 2020 (CCF-B conf.)**!
