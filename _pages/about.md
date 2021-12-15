@@ -13,9 +13,9 @@ Yutong Liu is currently a fourth year Ph.D. student in [Department of Computer S
 
 News!
 ======
+- \[Dec. 2021\] Our paper "mNB-IoT: Concurrent Uplink Transmission for Multiple User Equipments in NB-IoT" is accepted by <font color=red>WCNC 2022 (CCF-C)</font>! A very interesting technical idea. Welcome to discuss with us!
 - \[Nov. 2021\] I have won the <font color=red>"潍柴动力" Scholarship</font>. Thanks to the funders!
 - \[Oct. 2021\] Our paper “Wi-Fruit: See Through Fruits with Smart Devices” is <font color=red>accepted by Ubicomp 2022 (CCF-A)</font>! Thanks for all collaborators and their hard work!
 - \[July 2021\] Our paper“Learning Based Congestion Control Simulator for Mobile Internet Education” is  <font color=red>accepted by MobiArch 2021 (Mobicom Workshop)</font>! This is my first education-oriented paper.
 - \[May 2021\] I have launched a new tool to check [conference deadlines](https://isabelleliu630.github.io/conf-deadlines/)!
-- \[Apr. 2021\] Our patent “面向无线通信增强的多点联合传输方法与系统” is  <font color=red>granted</font>!
 
