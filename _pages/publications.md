@@ -9,7 +9,7 @@ First authored papers
 ------
 1. **\[2021 UBICOMP (A)\]** Wi-Fruit: See Through Fruits with Smart Devices   
     Yutong Liu, Landu Jiang, Linghe Kong, Qiao Xiang, Xue Liu, Guihai Chen  
-    Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 5(4), 1-29. 
+    Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 5(4), 1-29.   
     [\[Paper\]](https://dl.acm.org/doi/pdf/10.1145/3494971)
 2. **\[2019 COMST (A)\]** Data-oriented mobile crowdsensing: A comprehensive survey   
     Yutong Liu, Linghe Kong, Guihai Chen  
