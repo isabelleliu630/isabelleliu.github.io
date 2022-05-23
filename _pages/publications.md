@@ -17,7 +17,7 @@ author_profile: true
 
 **Directions:** Wireless Sensing, Artificial intelligence, Data-oriented intelligent computing
 
-**Looking for collaborations with motivated PhD, Master, and Undergraduate students!**
+<font color=red>Looking for collaborations with motivated PhD, Master, and Undergraduate students!</font> 
 
 # Useful Links
 
@@ -30,7 +30,7 @@ author_profile: true
 1. (DDL: 2022/10/31) GE for SI: ["**Advances in Wireless Sensor Networks for Smart City**"](https://www.mdpi.com/journal/sensors/special_issues/WSN_smart_city) in Sensors.
 2. (DDL: 2022/6/15) EAI CollaborateCom 2022 ["**Collaborative Computing: Networking, Applications and Worksharing**"](https://collaboratecom.eai-conferences.org/2022/)
 
-# My Publication Lists
+# Publication Lists
 
 First authored papers
 ------
@@ -67,12 +67,12 @@ Collaborated papers
 1. **\[2021 JSAC (A)\]** WheelLoc: Practical and Accurate Localization for Wheeled Mobile Target via Integrated Sensing and Communication   
     Linghe Kong, **Yutong Liu**, Yunxin Liu, Le Zheng, Meikang Qiu, Guihai Chen  
     IEEE Journal on Selected Areas in Communications Special Issue on Integrated Sensing and Communication, 1 - 1   
-2. [2022 IJCNN (C)] GNN-Detective: Efficient Weakly Correlated Neighbors Distinguishing and Processing in GNN
-    Jiayang Qiao, **Yutong Liu***, Linghe Kong
+2. [2022 IJCNN (C)] GNN-Detective: Efficient Weakly Correlated Neighbors Distinguishing and Processing in GNN   
+    Jiayang Qiao, **Yutong Liu***, Linghe Kong  
     International Joint Conference on Neural Networks
-2. \[2021 WCNC (C)\] mNB-IoT: Concurrent Uplink Transmission for Multiple User Equipments in NB-IoT   
-    Caiqian Zhang, **Yutong Liu**, Linghe Kong, Guihai Chen, Jianhua Gao, Zhen Wang
-    IEEE Wireless Communications and Networking Conference   
+2. \[2021 WCNC (C)\] mNB-IoT: Concurrent Uplink Transmission for Multiple User Equipments in NB-IoT  
+    Caiqian Zhang, **Yutong Liu**, Linghe Kong, Guihai Chen, Jianhua Gao, Zhen Wang  
+    IEEE Wireless Communications and Networking Conference 
 3. \[2021 Mobicom Workshop (MobiArch)\] Learning Based Congestion Control Simulator for Mobile Internet Education   
     Junqin Huang, Linghe Kong, Jiejian Wu, **Yutong Liu**, Yuchen Li and Zhe Wang  
     Proceedings of the 16th ACM Workshop on Mobility in the Evolving Internet Architecture, 1-6
