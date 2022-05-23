@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Teaching Experience"
+title: "Teaching Issues"
 permalink: /teaching/
 author_profile: true
 ---
-# Teaching course
+## Teaching course
 
 [2022 Spring] 计算机系统结构实验（助课）
 
@@ -12,20 +12,20 @@ author_profile: true
 
 
 
-# TA experience
+## TA experience
 
-1. **\[Mar-Jun 2021 TA\]** [Introduction to Computer Science](http://anl.sjtu.edu.cn/gao-xf/course/CS101_2021)（计算机导论）& Advanced Technologies of Mobile Internet Computing（移动互联网前沿技术）
+1. \[Mar-Jun 2021\] [Introduction to Computer Science](http://anl.sjtu.edu.cn/gao-xf/course/CS101_2021)（计算机导论）& Advanced Technologies of Mobile Internet Computing（移动互联网前沿技术）
 
-2. **\[Sep-Dec 2020 TA\]** Engineering information management（工程信息管理）
+2. \[Sep-Dec 2020] Engineering information management（工程信息管理）
 
-3. **\[Jul-Aug 2020 TA\]** Advanced Technologies of Mobile Internet Computing（移动互联网前沿技术）
+3. \[Jul-Aug 2020] Advanced Technologies of Mobile Internet Computing（移动互联网前沿技术）
 
-4. **\[Sep-Dec 2019 TA\]** Engineering information management（工程信息管理）
+4. \[Sep-Dec 2019\] Engineering information management（工程信息管理）
 
-5. **\[Mar-Jun 2019 TA\]** [Computer Network](http://www.cs.sjtu.edu.cn/~linghe.kong/CS339/index.html)（计算机网络）
+5. \[Mar-Jun 2019] [Computer Network](http://www.cs.sjtu.edu.cn/~linghe.kong/CS339/index.html)（计算机网络）
 
    
 
-# Book editorship
+## Book editorship
 
-Engineering information management（工程信息管理）
+[2021-2022] Engineering information management（工程信息管理）

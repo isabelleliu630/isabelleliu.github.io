@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
@@ -17,13 +17,13 @@ author_profile: true
 
 **Directions:** Wireless Sensing, Artificial intelligence, Data-oriented intelligent computing
 
-<font color=red>**Looking for collaborations with motivated PhD, Master, and Undergraduate students!**</font>
+**Looking for collaborations with motivated PhD, Master, and Undergraduate students!**
 
 # Useful Links
 
 **Ranking List:** [CCF ranking list 2022](https://isabelleliu630.github.io/files/list.pdf)
 
-**DDL checking: **[DDLs in my directions](https://isabelleliu630.github.io/conf-deadlines/)
+**DDL checking:** [DDLs in my directions](https://isabelleliu630.github.io/conf-deadlines/)
 
 **CFPs:** Any <font color=red>master or undergraduate students</font> have paper demands can consider links here.
 

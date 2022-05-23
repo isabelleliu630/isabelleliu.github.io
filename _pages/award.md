@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Awards"
+title: "My awards"
 permalink: /awards/
 author_profile: true
 ---
 Competitions
-======
+------
 
 1. [2020] China Postgraduate Mathematical Contest in Modeling **Second Prize** 
 2. [2019] Ebay Hackathon **Innovative Award**
@@ -13,11 +13,11 @@ Competitions
 4. [2016] MCM/ICM **Honourable Mention**
 5. [2015] School debate competition **Best debater**
 
-# Research awards
+## Research awards
 
-**\[2020\]** IWQoS'20 (CCF-B) Best paper award
+\[2020\] IWQoS'20 **(CCF-B)** Best paper award
 
-# Scholarships
+## Scholarships
 
 1. **\[Autumn 2021, Ph. D.\]** 潍柴动力奖学金 
 2. **\[Autumn 2019, Ph. D.\]** Intel Excellent Fellowship Award 
