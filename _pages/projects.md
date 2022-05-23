@@ -4,15 +4,15 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-1. [2018 HUAWEI] (participate) Robot collaborative communication research  
+# Principle
+
+[2018 HUAWEI] (Lead) Robot collaborative communication research  
 China's national invention patent (invention published): 《面向无线通信增强的多点联合传输方法与系统》  
 [\[Proof\]](https://isabelleliu630.github.io/files/patent.pdf)
-2. [2020 NSF] (participate) Research on Concurrent Transmission Technology of IoT Wireless Communication
 
-Competitions
-======
-1. [2020] China Postgraduate Mathematical Contest in Modeling **Second Prize** 
-2. [2019] Ebay Hackathon **Innovative Award**
-3. [2018] China National College Internet Application Innovation Competition **First Prize**
-4. [2016] MCM/ICM **Honourable Mention**
-5. [2015] School debate competition **Best debater**
+# Participate
+
+1. [2022 NSFC重点] Grant No. 62141220 “泛在操作系统异构硬件的资源抽象与融合管理”
+1. [2022 工信部] 2022-2023 人工智能产业创新任务揭榜挂帅：“人工智能开发服务平台及工具” （星环科技）
+1. [2022 重点研发] Grant No. 2020YFB1710900 “融合5G-U的工业异构广域网络体系架构及终端设备研发”
+1. [2020 NSFC面上] Grant No. 61972253 “车联网大数据传输技术研究”
