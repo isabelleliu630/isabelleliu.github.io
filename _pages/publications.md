@@ -29,6 +29,7 @@ author_profile: true
 
 1. (DDL: 2022/10/31) GE for SI: ["**Advances in Wireless Sensor Networks for Smart City**"](https://www.mdpi.com/journal/sensors/special_issues/WSN_smart_city) in Sensors.
 2. (DDL: 2022/6/15) EAI CollaborateCom 2022 ["**Collaborative Computing: Networking, Applications and Worksharing**"](https://collaboratecom.eai-conferences.org/2022/)
+2. (DDL:2022/12/05) IET Communication (CCF-C journal) SI: ["**Softwarised Next Generation Networks for Industrial IoT Services**"](https://ietresearch.onlinelibrary.wiley.com/pb-assets/assets/17518636/Special%20Issues/IET%20COM%20CFP_SNGNIIS-1648057101353.pdf)
 
 # Publication Lists
 
