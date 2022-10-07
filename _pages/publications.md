@@ -10,12 +10,12 @@ author_profile: true
 |                | CCF-A | CCF-B | CCF-C | Others    | Total |
 | -------------- | ----- | ----- | ----- | --------- | ----- |
 | First authored | 1     | 3     | 1     | 1 (COMST) | 6     |
-| Collaborated   | 1     | 0     | 5     | 2         | 8     |
-| Total          | 2     | 3     | 6     | 3         | 14    |
+| Collaborated   | 1     | 0     | 8     | 2         | 11    |
+| Total          | 2     | 3     | 9     | 3         | 17    |
 
 **Citation:** [Google Scholar](https://scholar.google.com/citations?user=k34dE-gAAAAJ&hl=en)
 
-**Directions:** Wireless Sensing, Artificial intelligence, Data-oriented intelligent computing
+**Directions:** Wireless Sensing, Artificial intelligence+IoT, Data-oriented intelligent computing
 
 <font color=red>Looking for collaborations with motivated PhD, Master, and Undergraduate students!</font> 
 
@@ -28,7 +28,6 @@ author_profile: true
 **CFPs:** Any <font color=red>master or undergraduate students</font> have paper demands can consider links here.
 
 1. (DDL: 2022/10/31) GE for SI: ["**Advances in Wireless Sensor Networks for Smart City**"](https://www.mdpi.com/journal/sensors/special_issues/WSN_smart_city) in Sensors.
-2. (DDL: 2022/6/15) EAI CollaborateCom 2022 ["**Collaborative Computing: Networking, Applications and Worksharing**"](https://collaboratecom.eai-conferences.org/2022/)
 2. (DDL:2022/12/05) IET Communication (CCF-C journal) SI: ["**Softwarised Next Generation Networks for Industrial IoT Services**"](https://ietresearch.onlinelibrary.wiley.com/pb-assets/assets/17518636/Special%20Issues/IET%20COM%20CFP_SNGNIIS-1648057101353.pdf)
 
 # Publication Lists
@@ -68,6 +67,15 @@ Collaborated papers
 1. **\[2021 JSAC (A)\]** WheelLoc: Practical and Accurate Localization for Wheeled Mobile Target via Integrated Sensing and Communication   
     Linghe Kong, **Yutong Liu**, Yunxin Liu, Le Zheng, Meikang Qiu, Guihai Chen  
     IEEE Journal on Selected Areas in Communications Special Issue on Integrated Sensing and Communication, 1 - 1   
+2. [2022 PRICAI (C)] 3D Point Cloud Segmentation Leveraging Global 2D-view Features   
+    Martin Pellon, **Yutong Liu***   
+    The 19th Pacific Rim International Conference on Artificial Intelligence
+3. [2022 Globecom (C)] Wi-Uro: Real-time Monitoring and Alarming for Urine Bags Using Commodity Wi-Fi  
+    Haonan Chen, Zengyu Ye, **Yutong Liu***, Yongguang Li*, Linghe Kong, Jiadi Yu, Guihai Chen  
+    IEEE Global Communications Conference
+4. [2022 Globecom (C)] 6G Intelligent Distributed Uplink Beamforming for Transport System in Highly Dynamic Environments  
+    Xingrui Yi, **Yutong Liu***, Linghe Kong, Guihai Chen, Xue Liu, Shahid Mumtaz, Joel J. P. C. Rodrigues  
+    IEEE Global Communications Conference
 2. [2022 IJCNN (C)] GNN-Detective: Efficient Weakly Correlated Neighbors Distinguishing and Processing in GNN   
     Jiayang Qiao, **Yutong Liu***, Linghe Kong  
     International Joint Conference on Neural Networks

@@ -10,12 +10,13 @@ Competitions
 1. [2020] China Postgraduate Mathematical Contest in Modeling **Second Prize** 
 2. [2019] Ebay Hackathon **Innovative Award**
 3. [2018] China National College Internet Application Innovation Competition **First Prize**
-4. [2016] MCM/ICM **Honourable Mention**
+4. [2016] MCM/ICM **Honorable Mention**
 5. [2015] School debate competition **Best debater**
 
 ## Research awards
 
-\[2020\] IWQoS'20 **(CCF-B)** Best paper award
+1. \[2022\] ACM SIGCSE China Outstanding Outstanding Ph.D. Thesis Award
+2. \[2020\] IWQoS'20 **(CCF-B)** Best paper award
 
 ## Scholarships
 
