@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Teaching course
 
-[2023 Spring] 计算机系统结构实验、计算机网络（与孔教授共同授课）
+[2023 Spring] 计算机系统结构实验、人工智能技术及应用（与孔教授共同授课）
 
 [2022 Spring] 计算机系统结构实验（助课）
 

@@ -13,9 +13,17 @@ Yutong Liu is the research assistant professor in [Shanghai Jiao Tong University
 
 News!
 ======
+- \[Feb. 2023\] I have won the 2023 Shanghai Science and Technology Development Funds (Yangfan-Qimingxing special program)!
+
+- \[Nov. 2022\] Our paper "3D Point Cloud Segmentation Leveraging Global 2D-view Features" has won the <font color=red>Best Paper Award</font> in PRICAI 2022 (CCF-C)!
+
 - \[Oct. 2022\] I have won the 2022 ACM SIGCSE China Outstanding Outstanding Ph.D. Thesis Award!
+
 - \[July 2022\] I have joined in SJTU as the research assistant professor in Prof. Linghe Kong's group. Welcome any cooperation!
+
 - \[May 2022\] I have successfully passed my thesis defense and received my Ph. D. degree! The title of my thesis is "Multi-modal Collaboration Based Intelligent Wireless Sensing". 
+
 - \[Apr. 2022\] I am right now the Guest Editor of the SI: "**Advances in Wireless Sensor Networks for Smart City**" in Sensors. Here is the [proposal](https://www.mdpi.com/journal/sensors/special_issues/WSN_smart_city). Welcome to submit your novel papers!
-- \[Apr. 2022\] Our paper "GNN-Detective: Efficient Weakly Correlated Neighbors Distinguishing and Processing in GNN" is accepted by <font color=red>IJCNN 2022</font>! Congratulations to Jiayang's graduation!
+
+  
 

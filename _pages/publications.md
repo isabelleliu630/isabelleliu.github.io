@@ -10,8 +10,8 @@ author_profile: true
 |                | CCF-A | CCF-B | CCF-C | Others    | Total |
 | -------------- | ----- | ----- | ----- | --------- | ----- |
 | First authored | 1     | 3     | 1     | 1 (COMST) | 6     |
-| Collaborated   | 1     | 0     | 8     | 2         | 11    |
-| Total          | 2     | 3     | 9     | 3         | 17    |
+| Collaborated   | 2     | 0     | 8     | 4         | 14    |
+| Total          | 3     | 3     | 9     | 5         | 20    |
 
 **Citation:** [Google Scholar](https://scholar.google.com/citations?user=k34dE-gAAAAJ&hl=en)
 
@@ -27,8 +27,7 @@ author_profile: true
 
 **CFPs:** Any <font color=red>master or undergraduate students</font> have paper demands can consider links here.
 
-1. (DDL: 2022/10/31) GE for SI: ["**Advances in Wireless Sensor Networks for Smart City**"](https://www.mdpi.com/journal/sensors/special_issues/WSN_smart_city) in Sensors.
-2. (DDL:2022/12/05) IET Communication (CCF-C journal) SI: ["**Softwarised Next Generation Networks for Industrial IoT Services**"](https://ietresearch.onlinelibrary.wiley.com/pb-assets/assets/17518636/Special%20Issues/IET%20COM%20CFP_SNGNIIS-1648057101353.pdf)
+1. (DDL: 2023/5/31) GE for SI: ["**Advances in Wireless Sensor Networks for Smart City**"](https://www.mdpi.com/journal/sensors/special_issues/WSN_smart_city) in Sensors.
 
 # Publication Lists
 
@@ -67,7 +66,16 @@ Collaborated papers
 1. **\[2021 JSAC (A)\]** WheelLoc: Practical and Accurate Localization for Wheeled Mobile Target via Integrated Sensing and Communication   
     Linghe Kong, **Yutong Liu**, Yunxin Liu, Le Zheng, Meikang Qiu, Guihai Chen  
     IEEE Journal on Selected Areas in Communications Special Issue on Integrated Sensing and Communication, 1 - 1   
-2. [2022 PRICAI (C)] 3D Point Cloud Segmentation Leveraging Global 2D-view Features   
+2. **[2023 TMC (A)]** ArguteDUB: Deep Learning based Distributed Uplink Beamforming in 6G-Based IoV    
+    Xingrui Yi , Jianqiang Li , **Yutong Liu** , Linghe Kong , Ying Shao , Guihai Chen , Xue Liu , Shahid Mumtaz , Joel Rodrigues   
+    IEEE Transactions on Mobile Computing
+3. [2023 计算机教育, <font color=orange>**education**</font>] CS2023 ：计算机科学教育知识与胜任力模型 并轨的全新探索   
+    向乔，**刘雨桐***，孔令和，高晓沨，张铭，陈娟，Amruth Kumar，Raj Rajendra   
+    计算机教育
+4. [2022 Sensors, <font color=blue>**satellite**</font>] The Design and Maintenance of Low-Orbit Navigation Constellation for Traffic Control in a Smart City     
+    Yi Zheng, Baojun Lin, Rui Li, and **Yutong Liu**   
+    Sensors
+2. [2022 PRICAI (C)] 3D Point Cloud Segmentation Leveraging Global 2D-view Features <font color=red>(Best paper award)  </font>    
     Martin Pellon, **Yutong Liu***   
     The 19th Pacific Rim International Conference on Artificial Intelligence
 3. [2022 Globecom (C)] Wi-Uro: Real-time Monitoring and Alarming for Urine Bags Using Commodity Wi-Fi  
