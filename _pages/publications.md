@@ -69,10 +69,10 @@ Collaborated papers
 2. **[2023 TMC (A)]** ArguteDUB: Deep Learning based Distributed Uplink Beamforming in 6G-Based IoV    
     Xingrui Yi , Jianqiang Li , **Yutong Liu** , Linghe Kong , Ying Shao , Guihai Chen , Xue Liu , Shahid Mumtaz , Joel Rodrigues   
     IEEE Transactions on Mobile Computing
-3. [2023 计算机教育, <font color=orange>**education**</font>] CS2023 ：计算机科学教育知识与胜任力模型 并轨的全新探索   
+3. [2023 计算机教育, <font color=orange>education</font>] CS2023 ：计算机科学教育知识与胜任力模型 并轨的全新探索   
     向乔，**刘雨桐***，孔令和，高晓沨，张铭，陈娟，Amruth Kumar，Raj Rajendra   
     计算机教育
-4. [2022 Sensors, <font color=blue>**satellite**</font>] The Design and Maintenance of Low-Orbit Navigation Constellation for Traffic Control in a Smart City     
+4. [2022 Sensors, <font color=blue>satellite</font>] The Design and Maintenance of Low-Orbit Navigation Constellation for Traffic Control in a Smart City     
     Yi Zheng, Baojun Lin, Rui Li, and **Yutong Liu**   
     Sensors
 2. [2022 PRICAI (C)] 3D Point Cloud Segmentation Leveraging Global 2D-view Features <font color=red>(Best paper award)  </font>    
