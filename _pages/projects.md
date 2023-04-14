@@ -9,7 +9,9 @@ author_profile: true
 1. [2023.4-2026.4] 上海市2023年度“科技创新行动计划”启明星项目
    项目名称：多模态协同智能无线感知
    项目编号：23YF1420500
-
+2. [2023 春] 上海交通大学PRP项目
+   项目名称：卫星态势感知光学图像压缩
+   项目编号：T030PRP43128
 2. [2018 HUAWEI] Robot collaborative communication research  
    China's national invention patent (invention published): 《面向无线通信增强的多点联合传输方法与系统》  
    [\[Proof\]](https://isabelleliu630.github.io/files/patent.pdf)
