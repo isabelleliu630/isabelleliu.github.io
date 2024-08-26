@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "My papers"
 permalink: /publications/
 author_profile: true
 ---
@@ -19,7 +19,7 @@ author_profile: true
 
 ## Publication Lists
 
-## First authored papers
+### First authored papers
 
 1. **\[2024 SCI <font color=orange>education</font>\]** **Liu, Yutong**, Qiao Xiang, Juan Chen, Ming Zhang, Jingdong Xu, and Yuan Luo. "Undergraduate Computer Science Education in China." *ACM Inroads* 15, no. 1 (2024): 28-36.
 2. **\[2023 图灵大会 <font color=orange>education</font>\]** **Liu, Yutong.** "China’s Nationwide Undergraduate CS Education Reforming Initiatives: the “101 plan”." In *Proceedings of the ACM Turing Award Celebration Conference-China 2023*, pp. 85-86. 2023.
@@ -31,7 +31,7 @@ author_profile: true
 8. **\[2019 IWQoS (CCF-B), Best Paper Runner-up\]** **Liu, Yutong**, Linghe Kong, Muhammad Hassan, Long Cheng, Guangtao Xue, and Guihai Chen. "Litedge: towards light-weight edge computing for efficient wireless surveillance system." In *Proceedings of the International Symposium on Quality of Service*, pp. 1-10. 2019. [\[Paper\]](https://isabelleliu630.github.io/files/IWQoS2019.pdf)[\[Slides\]](https://isabelleliu630.github.io/files/litedge_PPT.pdf)
 9. **\[2018 ICPADS (CCF-C)\]** **Liu, Yutong**, Linghe Kong, Yifeng Cao, Vahan Sarafian, Long Cheng, and Guihai Chen. "Stop unauthorized access to your smart devices." In *2018 IEEE 24th International Conference on Parallel and Distributed Systems (ICPADS)*, pp. 228-235. IEEE, 2018. [\[Paper\]](https://isabelleliu630.github.io/files/icpads.pdf)
 
-## Collaborated papers
+### Collaborated papers
 **label represents the corresponding author.*
 
 1. **\[2024 TNSE (CCF-B)\]** Yang, Guisong, Panpan Wen, **Yutong Liu***, Linghe Kong, and Yunhuai Liu. "Spatial-Temporal Data Inference With Graph Attention Neural Networks in Sparse Mobile CrowdSensing." *IEEE Transactions on Network Science and Engineering* (2024).
