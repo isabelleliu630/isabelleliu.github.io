@@ -34,7 +34,7 @@ author_profile: true
 ### Collaborated papers
 **label represents the corresponding author.*
 
-1. **\[2024 TNSE (CCF-B)\]** Yang, Guisong, Panpan Wen, **Yutong Liu***, Linghe Kong, and Yunhuai Liu. "Spatial-Temporal Data Inference With Graph Attention Neural Networks in Sparse Mobile CrowdSensing." *IEEE Transactions on Network Science and Engineering* (2024).
+1. **\[2024 TNSE (CCF-B)\]** Yang, Guisong, Panpan Wen, **Yutong Liu\***, Linghe Kong, and Yunhuai Liu. "Spatial-Temporal Data Inference With Graph Attention Neural Networks in Sparse Mobile CrowdSensing." *IEEE Transactions on Network Science and Engineering* (2024).
 2. **\[2024 IWQoS Short Paper\]** Yuxin Wang, Haoyu Liu, Haohao Song, Siyong Huang, Shaoxiang Qin, **Yutong Liu**, Qiao Xiang, Linghe Kong, Geng Li, Jiwu Shu, Xue Liu. "Toward Collaborative Low-Latency Interdomain Traffic Engineering via Edge Peering." *IWQoS Short Paper* 2024
 3. **\[2024 INFOCOM (CCF-A)\]** Fang, Xing, Feiyan Ding, Bang Huang, Ziyi Wang, Gao Han, Rulan Yang, Lizhao You, Qiao Xiang, Linghe Kong, **Yutong Liu**, and Jiwu Shu. "Network Can Help Check Itself: Accelerating SMT-based Network Configuration Verification Using Network Domain Knowledge." In *IEEE INFOCOM 2024-IEEE Conference on Computer Communications*, pp. 2119-2128. IEEE, 2024.
 4. **[2023 TON (CCF-A)]** Cai, Mingxin, **Yutong Liu\***, Linghe Kong, Guihai Chen, Liang Liu, Meikang Qiu, and Shahid Mumtaz. "Resource Critical Flow Monitoring in Software-Defined Networks." *IEEE/ACM Transactions on Networking* 32, no. 1 (2023): 396-410.
